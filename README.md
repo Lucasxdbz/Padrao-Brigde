@@ -1,0 +1,1 @@
+Bridge — usado quando você quer separar uma abstração da sua implementação para que ambas possam variar independentemente. No código você identifica quando uma classe abstrata possui uma referência a uma interface de implementação, delegando o trabalho para ela.
